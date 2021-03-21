@@ -1,1 +1,1 @@
-# pymail_validator
+# smtp_validator
